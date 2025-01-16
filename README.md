@@ -23,5 +23,5 @@ Este é um projeto de um **site Sorteador de Nomes**. Ele permite sortear um nom
 
 ## Link Projeto
 
----> [Link](https://amigo-secreto-mathedevss-projects.vercel.app/)
+---> [Site Amigo Secreto](https://amigo-secreto-mathedevss-projects.vercel.app/)
 
