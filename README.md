@@ -21,7 +21,7 @@ Este é um projeto de um **site Sorteador de Nomes**. Ele permite sortear um nom
 - **CSS** - Para estilizar a página e garantir uma interface simples e responsiva.
 - **JavaScript** - Para implementar a lógica de sorteio e interação com o usuário.
 
-## Modo de Uso
+## Link Projeto
 
----> Ao acessar o site, você verá um campo onde pode inserir os nomes das pessoas.
+---> [Link](https://amigo-secreto-mathedevss-projects.vercel.app/)
 
